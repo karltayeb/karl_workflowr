@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fa-github
     text: Source code
-    href: https://github.com/karl.tayeb7@gmail.com/karl_workflowr
+    href: https://github.com/karltayeb/karl_workflowr
 output:
   workflowr::wflow_html:
     toc: yes
